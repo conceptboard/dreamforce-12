@@ -1,8 +1,8 @@
 Initial Setup
 =============
 1. Create your Remote Access endpoint in your Salesforce Company
-   - the callback URL has to be _https://login.salesforce.com/services/oauth2/success_
    - http://www.salesforce.com/us/developer/docs/chatterapi/Content/quickstart_oauth.htm
+   - the callback URL has to be _https://login.salesforce.com/services/oauth2/success_
 2. (optional) rebuild your own example app
     gradle fatJar
   
