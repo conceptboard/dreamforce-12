@@ -1,0 +1,9 @@
+/SimpleUsersConnectionRepository.db.json
+/build
+!/build/libs/*.jar
+/bin
+/.gradle
+/.settings
+/.classpath
+/.project
+/forcedotcom-credentials.properties
