@@ -9,7 +9,7 @@ Initial Setup
 Running the example
 ===================
 
-1. copy forcedotcom-credentials.properties.example to forcedotcom-credentials.properties and update the file with your specific oauth credentials
+1. copy _forcedotcom-credentials.properties.example_ to _forcedotcom-credentials.properties_ and update the file with your specific oauth credentials
 2. run the application
    java -jar build/libs/dreamforce-*.jar --credentials=forcedotcom-credentials.properties
 
