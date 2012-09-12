@@ -3,7 +3,6 @@ Initial Setup (build manually)
 1. Create your Remote Access endpoint in your Salesforce Company
    - the callback URL has to be _https://login.salesforce.com/services/oauth2/success_
    - http://www.salesforce.com/us/developer/docs/chatterapi/Content/quickstart_oauth.htm
-
 2. (optional) rebuild your own example app
     gradle fatJar
   
@@ -19,7 +18,7 @@ Commands in the example
 =======================
 The example is an interactive command line app. You can get a list of all available commands with
 
-   ?list
+    ?list
 
 You should start with:
 
