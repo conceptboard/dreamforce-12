@@ -47,3 +47,7 @@ The package com.conceptboard.social.oauth2useragentflow is modelled after the sp
 
 You will see that for Salesforce the ConnectionRepository has to be adapted. Because with the salesforce API you need to store additional data for every user. This is the instanceUrl of the user. This is not originally a part of spring-social and you can find an implementation in com.conceptboard.social.simpleconnectionrepository together with com.conceptboard.social.ConnectionData
 
+
+Contact
+=======
+Feel free to contact me directly. Christian Schröder - christian.schroeder@conceptboard.com
